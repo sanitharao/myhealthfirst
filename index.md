@@ -4,4 +4,4 @@ Like the popular saying "Health is wealth", we must always make health our first
 
 - [Fatty Liver](topics/Fatty_Liver.md)
 - [Hormones](topics/hormones.md)
-- [Free Radicals](Free_Radicals.md) 
+- [Free Radicals](topics/Free_Radicals.md) 
